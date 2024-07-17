@@ -17,6 +17,8 @@ The project is built using the following technologies:
 
 Here is a slideshow demonstration of the project:
 <img src="./2023-06-15.png">
+<img src="./WhatsApp Image 2024-07-17 à 17.02.37_eb10ba9e.jpg">
+
 
 ## Features
 
