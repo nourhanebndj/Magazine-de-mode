@@ -17,7 +17,7 @@ The project is built using the following technologies:
 
 Here is a slideshow demonstration of the project:
 <img src="./2023-06-15.png">
-<img src="./blog">
+<img src="./blog.jpg">
 
 
 ## Features
